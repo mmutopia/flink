@@ -1,0 +1,4 @@
+/target/
+/dependency-reduced-pom.xml
+/flink-mmtopia-example.iml
+/.idea/
