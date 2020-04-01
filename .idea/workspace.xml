@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83a336b9-64ae-4e59-84d7-8f4f29b6c091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Brance-03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Brance-03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Brance-03.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +139,7 @@
       <workItem from="1585578953797" duration="2740000" />
       <workItem from="1585709662402" duration="1100000" />
       <workItem from="1585734756441" duration="4652000" />
-      <workItem from="1585746655173" duration="3254000" />
+      <workItem from="1585746655173" duration="3337000" />
     </task>
     <task id="LOCAL-00001" summary="add flink example file to github repo">
       <created>1585747613103</created>
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585749784666</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="brance-03 add file txt">
+      <created>1585750030749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585750030749</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +234,8 @@
     <MESSAGE value="add flink example file to github repo" />
     <MESSAGE value="add gitgnore to repo" />
     <MESSAGE value="brance-02 add file txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="brance-02 add file txt" />
+    <MESSAGE value="brance-03 add file txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="brance-03 add file txt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="305" y="104" key="#Notifications" timestamp="1585746881510">
@@ -237,10 +246,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585739310905" />
-    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2" timestamp="1585749784520">
+    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2" timestamp="1585750030593">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749784520" />
+    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585750030593" />
     <state x="114" y="110" width="1240" height="700" key="DiffContextDialog" timestamp="1585749735182">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -289,9 +298,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="343" y="218" key="git4idea.merge.GitPullDialog/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749338873" />
-    <state x="459" y="254" key="git4idea.ui.GitTagDialog" timestamp="1585749871762">
+    <state x="224" y="203" key="git4idea.ui.GitTagDialog" timestamp="1585750086814">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="459" y="254" key="git4idea.ui.GitTagDialog/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749871762" />
+    <state x="224" y="203" key="git4idea.ui.GitTagDialog/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585750086814" />
   </component>
 </project>
