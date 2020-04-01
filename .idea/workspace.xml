@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83a336b9-64ae-4e59-84d7-8f4f29b6c091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Branch-02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Brance-03.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="flinkSSAnaly139" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -139,7 +138,7 @@
       <workItem from="1585578953797" duration="2740000" />
       <workItem from="1585709662402" duration="1100000" />
       <workItem from="1585734756441" duration="4652000" />
-      <workItem from="1585746655173" duration="2972000" />
+      <workItem from="1585746655173" duration="3254000" />
     </task>
     <task id="LOCAL-00001" summary="add flink example file to github repo">
       <created>1585747613103</created>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585749497934</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="brance-02 add file txt">
+      <created>1585749784666</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585749784666</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +225,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add flink example file to github repo" />
     <MESSAGE value="add gitgnore to repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitgnore to repo" />
+    <MESSAGE value="brance-02 add file txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="brance-02 add file txt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="305" y="104" key="#Notifications" timestamp="1585746881510">
@@ -230,10 +237,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585739310905" />
-    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2" timestamp="1585749497817">
+    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2" timestamp="1585749784520">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749497817" />
+    <state x="146" y="25" width="1037" height="760" key="CommitChangelistDialog2/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749784520" />
     <state x="114" y="110" width="1240" height="700" key="DiffContextDialog" timestamp="1585749735182">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -282,9 +289,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="343" y="218" key="git4idea.merge.GitPullDialog/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749338873" />
-    <state x="482" y="252" key="git4idea.ui.GitTagDialog" timestamp="1585749030089">
+    <state x="459" y="254" key="git4idea.ui.GitTagDialog" timestamp="1585749871762">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="482" y="252" key="git4idea.ui.GitTagDialog/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749030089" />
+    <state x="459" y="254" key="git4idea.ui.GitTagDialog/0.0.1440.900/-2560.-323.2560.1440@0.0.1440.900" timestamp="1585749871762" />
   </component>
 </project>
